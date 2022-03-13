@@ -4,7 +4,7 @@
 
 >  It's the representation of a pokedex with some pokemons I made with DEV EM DOBRO.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/mapadev-week-pokedex/
+Confira a aplicação: https://pokedex-kayke.netlify.app
 
 ## :sparkles: Features ##
 
