@@ -1,4 +1,4 @@
-# :gym_marker_red_sm: Pokedéx
+# Pokedéx
 
 <img src="./assets/img/Pokedex.gif" width="450px" alt="Gif Pokedex">
 
