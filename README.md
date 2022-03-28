@@ -7,6 +7,7 @@
 Check the Application: https://pokedex-kayke.netlify.app
 ## :page_facing_up: Explanation
 
+
 É uma página da pokedex que apresente seis pokemons, sendo eles: Pikachu, Bulbasaur, Charmander, Gyarados, Gengar e Dragonite. 
 
 Utilizar o JavaScript na aplicação possibilitou acessar a carta de cada um dos pokemons. Assim, mostrando o ataque e os pontos de cada um diferentemente.
