@@ -1,64 +1,57 @@
-# Pokedéx
+# GCB Test: Healthy Eating
 
-<img src="./assets/img/Pokedex.gif" width="450px" alt="Gif Pokedex">
+<img src="./assets/img/Pokedex.gif" width="800px" height="350px" alt="Gif do Teste">
 
 >  It's the representation of a pokedex with some pokemons I made with DEV EM DOBRO.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/mapadev-week-pokedex/
+Check the Application: https://pokedex-kayke.netlify.app
+## :page_facing_up: Explanation
 
-## :sparkles: Features ##
+É uma página da pokedex que apresente seis pokemons, sendo eles: Pikachu, Bulbasaur, Charmander, Gyarados, Gengar e Dragonite. 
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Utilizar o JavaScript na aplicação possibilitou acessar a carta de cada um dos pokemons. Assim, mostrando o ataque e os pontos de cada um diferentemente.
+
+O projeto foi desenvolvido junto com o canal do Youtube Dev em Dobro em um evento.
+
+## 📁 Pages
+
+The project has only one page:
+
+- **Home Page:** It's a pokedex page that features some pokemons
+## :dart: Features ##
+
+:heavy_check_mark: Structuring with HTML;\
+:heavy_check_mark: Pokedex styling;\
+:heavy_check_mark: Using JavaScript in the Pokedex;\
+:heavy_check_mark: Finished;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+## 🤝 Collaborators
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/Kayke-Fujinaka/mapadev-week-pokedex.git
-# Access
-$ cd mapadev-week-pokedex
-# Install dependencies
-$ yarn or npm 
-# Run the project
-$ yarn start or npm start 
-# The server will initialize in the <http://localhost:3000>
-```
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
