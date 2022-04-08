@@ -1,6 +1,6 @@
 # GCB Test: Healthy Eating
 
-<img src="./assets/img/Pokedex.gif" width="800px" height="350px" alt="Gif do Teste">
+<img src="./assets/img/Pokedex.gif" alt="Gif do Teste">
 
 >  It's the representation of a pokedex with some pokemons I made with DEV EM DOBRO.
 
