@@ -1,4 +1,4 @@
-# GCB Test: Healthy Eating
+# Pokedex
 
 <img src="./assets/img/Pokedex.gif" alt="Gif do Teste">
 
