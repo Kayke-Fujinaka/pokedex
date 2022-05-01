@@ -2,10 +2,10 @@
 
 <img src="./assets/img/Pokedex.gif" alt="Gif do Teste">
 
->  It's the representation of a pokedex with some pokemons I made with DEV EM DOBRO.
+>  É a representação de uma Pokedex com alguns pokemons.
 
-Check the Application: https://pokedex-kayke.netlify.app
-## :page_facing_up: Explanation
+Confira a aplicação: https://pokedex-kayke.netlify.app
+## :page_facing_up: Explicação
 
 
 É uma página da pokedex que apresente seis pokemons, sendo eles: Pikachu, Bulbasaur, Charmander, Gyarados, Gengar e Dragonite. 
@@ -14,28 +14,23 @@ Utilizar o JavaScript na aplicação possibilitou acessar a carta de cada um dos
 
 O projeto foi desenvolvido junto com o canal do Youtube Dev em Dobro em um evento.
 
-## 📁 Pages
+## :dart: Etapas ##
 
-The project has only one page:
+:heavy_check_mark: Estruturação com HTML;\
+:heavy_check_mark: Estilizando a Pokedex;\
+:heavy_check_mark: Intruduzindo JavaScript na aplicação;\
+:heavy_check_mark: Finalizado;
 
-- **Home Page:** It's a pokedex page that features some pokemons
-## :dart: Features ##
+## :rocket: Tecnologia ##
 
-:heavy_check_mark: Structuring with HTML;\
-:heavy_check_mark: Pokedex styling;\
-:heavy_check_mark: Using JavaScript in the Pokedex;\
-:heavy_check_mark: Finished;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
+O projeto utilizou das seguintes tecnologias:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
-## 🤝 Collaborators
+## 🤝 Colaboradores
 
-We thank the following people who contributed to this project:
+Nós agradecemos as seguintes pessoas que contribuíram com o projeto:
 
 <table>
   <tr>
@@ -50,10 +45,10 @@ We thank the following people who contributed to this project:
   </tr>
 </table>
 
-## 📝 License
+## 📝 Licença
 
-This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
 
 &#xa0;
 
-<a href="#top">Back to top</a>
+<a href="#top">Volte para o topo</a>
