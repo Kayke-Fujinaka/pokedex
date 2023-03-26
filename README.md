@@ -1,54 +1,55 @@
-# Pokedex
+<h1 align="center">🐝 Pokedex</h1>
 
 <img src="./assets/img/Pokedex.gif" alt="Gif do Teste">
 
->  É a representação de uma Pokedex com alguns pokemons.
+>  The project is a pokedex that showcases a selection of Pokemon
 
 Confira a aplicação: https://pokedex-kayke.netlify.app
-## :page_facing_up: Explicação
 
+## :page_facing_up: Describe
 
-É uma página da pokedex que apresente seis pokemons, sendo eles: Pikachu, Bulbasaur, Charmander, Gyarados, Gengar e Dragonite. 
+This is a pokedex page that showcases six different Pokemons: Pikachu, Bulbasaur, Charmander, Gyarados, Gengar, and Dragonite.
 
-Utilizar o JavaScript na aplicação possibilitou acessar a carta de cada um dos pokemons. Assim, mostrando o ataque e os pontos de cada um diferentemente.
+JavaScript was used to create the application, which allows users to access the card of each Pokemon, displaying their unique attack and point values.
 
-O projeto foi desenvolvido junto com o canal do Youtube Dev em Dobro em um evento.
+The project was developed in collaboration with the YouTube channel Dev em Dobro during a special event.
 
-## :dart: Etapas ##
+## :dart: Features ##
 
-:heavy_check_mark: Estruturação com HTML;\
-:heavy_check_mark: Estilizando a Pokedex;\
-:heavy_check_mark: Intruduzindo JavaScript na aplicação;\
-:heavy_check_mark: Finalizado;
+:heavy_check_mark: Structure;\
+:heavy_check_mark: Styled;\
+:heavy_check_mark: Apply JavaScript;\
+:heavy_check_mark: Finish;
 
-## :rocket: Tecnologia ##
+## :rocket: Technologies ##
 
-O projeto utilizou das seguintes tecnologias:
+The following tools were used in this project:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
-## 🤝 Colaboradores
 
-Nós agradecemos as seguintes pessoas que contribuíram com o projeto:
+## 🤝 Contributors
+
+We want to thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Kayke Fujinaka's photo on GitHub"/><br>
         <sub>
-          <b>Kayke Alves Fujinaka</b>
+          <b>Kayke Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Back to top</a>
