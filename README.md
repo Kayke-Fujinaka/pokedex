@@ -4,7 +4,7 @@
 
 >  The project is a pokedex that showcases a selection of Pokemon
 
-Confira a aplicação: https://pokedex-kayke.netlify.app
+Check out application: https://pokedex-kayke.netlify.app
 
 ## :page_facing_up: Describe
 
